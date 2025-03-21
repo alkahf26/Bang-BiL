@@ -1,7 +1,5 @@
 # Bang-BiL
 
-
-
 <html>
 <meta charset='UTF-8'/>
 <meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/>
@@ -20,12 +18,12 @@
 <title>Script HTML buat Kamu</title>
 <meta name="description" content="HTML Feeldream Repl Co">
 <!-- 
-  Made with love by Rayys!
+  Made with love by Alkahf Ariego!
   
      Blog: feeldream.id
-     Instagram: @rayyarrr
-     TikTok: @feelthisray
-     Email: rayyar73@gmail.com
+     Instagram: @alkahf26
+     TikTok: @mrxariego
+     Email: -
      
   Thanks to all <3
 -->
@@ -43,7 +41,7 @@
 }
 @keyframes fanim {0% {background-position: 0% 0%;}25% {background-position: 100% 100%;} 50% {background-position: 0% 100%;} 75% {background-position: 50% 50%;} 100% {background-position: 0% 0%;}}
 body{background-color:#000;font-family:var(--gaya-font);padding: 20px 25px;-webkit-user-select: none; -ms-user-select: none; user-select: none;} a{text-decoration:none;}
-body::before{content:"\00A9  Rayys | feeldream.id";color:white;opacity:.3;font-size:10px;position:fixed;bottom:25px;right:25px;z-index:2}
+body::before{content:"\00A9  Alkahf Ariego | Bang-BiL";color:white;opacity:.3;font-size:10px;position:fixed;bottom:25px;right:25px;z-index:2}
 #bodyblur{animation: jj 7s infinite;opacity:.5;position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);transition:all 1s ease;} 
 #wallpaper{width:100%;height:100%;transform: scale(1);transition:all 1.7s ease;}
 #beneranblur{position:fixed;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.3);transition:all 3s ease;}
