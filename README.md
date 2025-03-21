@@ -1,4 +1,4 @@
-# Bang-BiL
+
 
 <html>
 <meta charset='UTF-8'/>
@@ -20,7 +20,7 @@
 <!-- 
   Made with love by Alkahf Ariego!
   
-     Blog: feeldream.id
+     Blog: Bang-BiL
      Instagram: @alkahf26
      TikTok: @mrxariego
      Email: -
